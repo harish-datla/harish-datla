@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish-datla)](https://github.com/harish-datla/github-readme-stats)
+[![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish-datla&show_icons=true&theme=radical)](https://github.com/harish-datla/github-readme-stats)
 
 <!--
 **harish-datla/harish-datla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
