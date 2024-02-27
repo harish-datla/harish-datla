@@ -1,6 +1,7 @@
 ### Hi there 👋, This page is Work in Progress!
-
-[//]: # ([![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish-datla&show_icons=true&theme=radical&hide_rank=true)](https://github.com/harish-datla/github-readme-stats))
+<!---
+[![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish-datla&show_icons=true&theme=radical&hide_rank=true)](https://github.com/harish-datla/github-readme-stats)
+-->
 
 
 <h1 align="center"></h1>
