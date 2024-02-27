@@ -3,7 +3,7 @@
 [![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish-datla&show_icons=true&theme=radical&hide_rank=true)](https://github.com/harish-datla/github-readme-stats)
 -->
 
-
+![](https://komarev.com/ghpvc/?username=harish-datla)
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=harish-datla&show_icons=true&theme=radical&hide_rank=true" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-datla&layout=compact&theme=aura&langs_count=9" />
