@@ -5,18 +5,25 @@
 ## About
 
 Software engineer focused on building reliable, well-crafted systems.
-Currently expanding my knowledge in **database internals** and **systems programming**.
 I read a lot, commit often, and believe in understanding things from first principles.
 
 ---
 
-## 🛠 Languages
+## 🛠 Languages & expertise
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+| Language | Experience |
+|---|---|
+| Java | 5+ years |
+| Go | 5+ years |
+| TypeScript | 5+ years |
+| JavaScript | 5+ years |
+| SQL | 5+ years |
+| C# | 3+ years |
+| Elixir | 2+ years |
+| Ruby | 2+ years |
+| PHP | 2+ years |
+
+---
 
 ## ⚙️ Tools & Platforms
 
@@ -30,14 +37,6 @@ I read a lot, commit often, and believe in understanding things from first princ
 
 ## 📊 GitHub Stats
 
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=harish-datla&show_icons=true&theme=default&hide_rank=true&hide_border=true&bg_color=00000000" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-datla&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=6" />
-<br clear="both" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harish-datla&hide_border=true&background=00000000)](https://git.io/streak-stats)
 
----
-
-## 🔭 Currently
-
-- 📖 Reading about database internals
-- 🛠 Building and organising my learning notes
-- 📬 Open to interesting engineering conversations
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harish-datla&layout=compact&hide_border=true&bg_color=00000000&langs_count=8)
